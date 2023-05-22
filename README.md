@@ -19,4 +19,4 @@ UNC Chapel Hill Coding Bootcamp Study Materials
 
 ## License
 
-MIT Open Source
+MIT Open Source License 
