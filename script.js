@@ -21,16 +21,15 @@ if (randomTopic=== 'HTML') {
  console.log('Please try again!');
 }
 } 
-<<<<<<< HEAD
 
 console.log('Here are the topics we learned through Prework:');
 listTopics();
 console.log('Which topic should we study first');
 selectTopic();
-=======
- 
+==
 console.log('Here are the topics we learned through Prework:');
 listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
->>>>>>> 33afb7e21e40f2a2ab0ffd6dc0366d8591d9bba8
+
+
